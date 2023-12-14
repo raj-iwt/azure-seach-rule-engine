@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HNH9MTp+ENQQRyqZ0diXrkmhUPkYcOSbW3XIZcA8oWY=",
+  "Source": "Odata.RuleEngine.Api",
+  "BasePath": "_content/Odata.RuleEngine.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
